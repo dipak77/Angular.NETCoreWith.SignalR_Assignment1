@@ -17,3 +17,7 @@ SignalR Demo
 ![image](https://user-images.githubusercontent.com/9925090/158735463-af42f9df-8d61-4a6c-a172-fed33d4acbf6.png)
 ![image](https://user-images.githubusercontent.com/9925090/158735512-e97cf18a-2184-4385-97cb-d0fe5aa23ecc.png)
 
+swagger ui
+![image](https://user-images.githubusercontent.com/9925090/158745069-e3fac47f-0cdc-4e17-a54a-fe92e04d5142.png)
+
+
