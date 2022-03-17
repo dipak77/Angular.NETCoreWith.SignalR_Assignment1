@@ -4,11 +4,13 @@ In this article, we will create a web application using ASP.NET Core and Angular
 Loading Page
 ![image](https://user-images.githubusercontent.com/9925090/158735235-28736374-0729-4d0d-8756-2cb3428b3cc2.png)
 
-JWT Auth
+Login JWT Auth
 ![image](https://user-images.githubusercontent.com/9925090/158735288-8e38f1ad-9a46-49ac-a492-23a3844f232f.png)
-![image](https://user-images.githubusercontent.com/9925090/158735359-878afba3-889e-427f-9426-1b93f147e092.png)
 
 Visibility using AuthGuard
+![image](https://user-images.githubusercontent.com/9925090/158735359-878afba3-889e-427f-9426-1b93f147e092.png)
+
+JWT Token
 ![image](https://user-images.githubusercontent.com/9925090/158735429-13302614-ecb4-4468-8eac-622ce4f159ed.png)
 
 SignalR Demo
