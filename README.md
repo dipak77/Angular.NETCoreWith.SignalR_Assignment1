@@ -3,7 +3,7 @@ In this article, we will create a web application using ASP.NET Core and Angular
 
 
 
-![image](https://www.thisiscolossal.com/wp-content/uploads/2017/08/Rainbow_Raindrops_loop.gif)
+
 
 Swagger UI
 ![image](https://user-images.githubusercontent.com/9925090/159000567-131d5117-3a02-43a2-a8ac-928596e2dd66.png)
@@ -32,4 +32,5 @@ SignalR Demo
 swagger ui
 ![image](https://user-images.githubusercontent.com/9925090/158745069-e3fac47f-0cdc-4e17-a54a-fe92e04d5142.png)
 
+![image](https://www.thisiscolossal.com/wp-content/uploads/2017/08/Rainbow_Raindrops_loop.gif)
 Thanks
