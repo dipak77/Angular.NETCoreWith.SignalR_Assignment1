@@ -3,7 +3,7 @@ In this article, we will create a web application using ASP.NET Core and Angular
 
 
 
-![image](https://user-images.githubusercontent.com/9925090/159042183-e0b6b73c-c9a2-4fc0-954c-b48b850d9488.png)
+![image](https://www.thisiscolossal.com/wp-content/uploads/2017/08/Rainbow_Raindrops_loop.gif)
 
 Swagger UI
 ![image](https://user-images.githubusercontent.com/9925090/159000567-131d5117-3a02-43a2-a8ac-928596e2dd66.png)
