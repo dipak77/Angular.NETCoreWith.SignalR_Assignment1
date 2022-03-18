@@ -19,7 +19,7 @@ import { AdminGuard } from './guards/admin.guard';
 import { BrowserAnimationsModule, NoopAnimationsModule } from '@angular/platform-browser/animations';
 import { SignalrService } from './signalrdemo/signalr.service';
 import { MatProgressBarModule } from '@angular/material/progress-bar';
-
+const usersModule = () => import('./manage-users/users.module').then(x => x.UsersModule);
 @NgModule({
   declarations: [
     AppComponent,
@@ -42,8 +42,9 @@ import { MatProgressBarModule } from '@angular/material/progress-bar';
     { path: 'login', component: LoginComponent },
     { path: 'user-home', component: UserHomeComponent, canActivate: [AuthGuard] },
     { path: 'admin-home', component: AdminHomeComponent, canActivate: [AdminGuard] },
-    { path: 'signalrdemo', component: SignalrComponent, canActivate: [AdminGuard] }
-], { relativeLinkResolution: 'legacy' }),
+    { path: 'signalrdemo', component: SignalrComponent, canActivate: [AdminGuard] },
+    { path: 'manage-users', loadChildren: usersModule, canActivate: [AdminGuard] },
+    ], { relativeLinkResolution: 'legacy' }),
     BrowserAnimationsModule
   ],
   providers: [{ provide: HTTP_INTERCEPTORS, useClass: HttpInterceptorService, multi: true },
