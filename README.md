@@ -3,15 +3,7 @@ In this article, we will create a web application using ASP.NET Core and Angular
 
 
 
-https://threejs.org/examples/webgl_shadowmap_pointlight.html
-
-<a href="https://threejs.org/examples/webgl_shadowmap_pointlight.html" target="viewer">
-						<div class="cover">
-							<img src="./three.js examples_files/webgl_shadowmap_pointlight.jpg" loading="lazy" width="400">
-						</div>
-						<div class="title">shadowmap / pointlight</div>
-					</a>
-
+![image](https://user-images.githubusercontent.com/9925090/159042183-e0b6b73c-c9a2-4fc0-954c-b48b850d9488.png)
 
 Swagger UI
 ![image](https://user-images.githubusercontent.com/9925090/159000567-131d5117-3a02-43a2-a8ac-928596e2dd66.png)
@@ -40,7 +32,4 @@ SignalR Demo
 swagger ui
 ![image](https://user-images.githubusercontent.com/9925090/158745069-e3fac47f-0cdc-4e17-a54a-fe92e04d5142.png)
 
-<iframe
-  src="https://threejs.org/examples/webgl_postprocessing_unreal_bloom_selective.html"
-  style="width:100%; height:300px;"
-></iframe>
+Thanks
