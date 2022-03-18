@@ -1,6 +1,12 @@
 # Angular.NETCoreWith.SignalR_Assignment with JWT token
 In this article, we will create a web application using ASP.NET Core and Angular. We will then implement authentication and policy-based authorization in the application with the help of JWT. The web application will have two roles – Admin and User. The application will have role-based access for each role. We will learn how to configure and validate a JWT.
 
+
+
+https://user-images.githubusercontent.com/9925090/159036158-ddd4b3fa-0ced-4391-abb7-b9ce6e71d1a2.mp4
+
+
+
 Swagger UI
 ![image](https://user-images.githubusercontent.com/9925090/159000567-131d5117-3a02-43a2-a8ac-928596e2dd66.png)
 
