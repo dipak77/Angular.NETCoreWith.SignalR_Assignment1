@@ -5,7 +5,12 @@ In this article, we will create a web application using ASP.NET Core and Angular
 
 https://threejs.org/examples/webgl_shadowmap_pointlight.html
 
-
+<a href="https://threejs.org/examples/webgl_shadowmap_pointlight.html" target="viewer">
+						<div class="cover">
+							<img src="./three.js examples_files/webgl_shadowmap_pointlight.jpg" loading="lazy" width="400">
+						</div>
+						<div class="title">shadowmap / pointlight</div>
+					</a>
 
 
 Swagger UI
