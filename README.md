@@ -3,7 +3,7 @@ In this article, we will create a web application using ASP.NET Core and Angular
 
 
 
-"https://threejs.org/examples/webgl_shadowmap_pointlight.html
+https://threejs.org/examples/webgl_shadowmap_pointlight.html
 
 
 
